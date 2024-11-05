@@ -41,7 +41,7 @@ GUILD_ID = your_guild_id
 CHANNEL_ID = your_chennel_id
 ```
 
-4. ** Run the bot**
+4. **Run the bot**
 
 ```bash
 python main.py
